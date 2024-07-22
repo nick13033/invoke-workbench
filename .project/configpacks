@@ -1,4 +1,3 @@
-*defaults.ContainerUser
 *bash.PreBuild
 *cuda.CUDA
 *defaults.EnvVars
@@ -8,5 +7,4 @@
 *bash.PreLanguage
 *python.PipPackageManager
 *bash.PostBuild
-*jupyterlab.JupyterLab
-*vs_code.VSCode
+*python.JupyterLabPackage
